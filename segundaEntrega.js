@@ -15,7 +15,7 @@ function crearUsuario(usuario) {
   };
 }
 
-registrarUsuario("Yanina", "Gómez", "01165147511", "yanina_gomez@gmail.com");
+registrarUsuario("Yanina", "Gómez", "01165147511", "yanina.gomez@gmail.com");
 
 console.log(crearUsuario);
 
